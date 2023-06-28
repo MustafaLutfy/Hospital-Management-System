@@ -1,0 +1,16 @@
+.doctor-form{
+    width: 40vw;
+    height: 50vh;
+    margin-top: 200px;
+}
+.doctor-form input::placeholder{
+    color: rgb(197, 197, 197);
+}
+.doctor-form input, .doctor-form select{
+    width: 400px;
+    padding: 14px;
+    margin-top: 20px;
+    color: rgb(197, 197, 197);
+    border-radius: 50px ;
+    background-color: #191C24;
+}
